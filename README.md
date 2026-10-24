@@ -17,7 +17,7 @@
 | Field                  | Details                                     |
 | ---------------------- | ------------------------------------------- |
 | **Team Name**          | Terrabotic                           |
-| **Team Domain**        | Domain 1 / Domain 2 *(choose one)*          |
+| **Team Domain**        | Domain 2         |
 | **SDG Track (1–17)**   | e.g. SDG 11 — Sustainable Cities and Communities |
 | **Team Leader**        | Leader Name                                 |
 | **University**         | University Name(s)                          |
